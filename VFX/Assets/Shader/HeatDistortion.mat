@@ -63,7 +63,7 @@ Material:
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RotAmount: -1
+    - _RotAmount: 1
     - _SrcBlend: 5
     - _Surface: 1
     - _TwirlStr: 30
